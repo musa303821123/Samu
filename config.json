@@ -1,4 +1,4 @@
-{
+to{
   "facebookAccount": {
     "email": "",
     "password": "",
@@ -25,7 +25,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "⇛⌘ STYLO 𝐁𝐎𝐓  ⌘⇚",
+  "nickNameBot": "⇛⌘ STYLO 𝐁𝐎t  ⌘⇚",
   "prefix": ".",
   "database": {
     "type": "sqlite",
